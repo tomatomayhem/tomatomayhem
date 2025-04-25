@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 hi, i'm dimitra!
+> currently working on: a lot of coursework!
+
+> planning to learn next: c++ and react
+
+interested in exploring computer vision, human computer interaction, and web design!
+
 
 <!--
 **tomatomayhem/tomatomayhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
