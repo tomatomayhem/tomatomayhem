@@ -1,7 +1,7 @@
 ## 👋 hi, i'm dimitra!
-> currently working on: refamiliarising myself with c# and .net framework!
+> currently working on: preparing for an upcoming internship by refamiliarising myself with c# and learning fundamentals of azure
 
-> planning to learn next: c++ and react
+> planning to learn next: web dev stuff ?! (react + typescript)
 
 interested in exploring computer vision, human computer interaction, and web design!
 
