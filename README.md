@@ -1,5 +1,5 @@
 ## 👋 hi, i'm dimitra!
-> currently working on: a lot of coursework!
+> currently working on: refamiliarising myself with c# and .net framework!
 
 > planning to learn next: c++ and react
 
