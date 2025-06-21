@@ -1,5 +1,5 @@
 ## 👋 hi, i'm dimitra!
-> currently working on: preparing for an upcoming internship by refamiliarising myself with c# and learning fundamentals of azure
+> currently: preparing for an upcoming internship by refamiliarising myself with c# and learning fundamentals of azure
 
 > planning to learn next: web dev stuff ?! (react + typescript)
 
